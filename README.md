@@ -7,4 +7,6 @@ VDT1k includes 1,325 video sequences captured by a triple-modal camera mounted o
 3. This work implements numerous evaluations and comparisons of current RGBT/RGBD methods. These evaluations and comparisons demonstrate that integrating RGBDT data is an indispensable approach to achieving more reliable tracking performance.
 
 ## Instances
-Partial sequences can be downloaded for previewing at the [link](https://pan.baidu.com/s/1qIelQBJWBR-Xi8Khcw1N8g?pwd=2y3j).
+![You can play this video via clicking this image](https://i-blog.csdnimg.cn/direct/4edc9d8e1bc747a1b7cb2ad4a59e0244.png#pic_center)
+
+You can play this video via clicking this [link](https://www.bilibili.com/video/BV1npmXBNEF3/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c48289e4d0b5d554d90e058fce4c4388).
