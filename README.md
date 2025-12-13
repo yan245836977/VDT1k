@@ -1,4 +1,4 @@
-# Multi-modal visual object tracking via unifying images of triple modalities
+# Visual object tracking via integrating images of visible, thermal, and depth modalities
 
 VDT1k includes 1,325 video sequences captured by a triple-modal camera mounted on a moving vehicle. This dataset is divided into 1,176 and 149 sequences for training and testing, respectively. These sequences consist of 240k aligned image pairs covering 16 types of objects photographed in motion from highways and downtown streets. Moreover, seven challenging attributes are annotated with binary labels, serving as crucial references for evaluating the performance of tracking methods under extreme scenarios. Our resources will be available as soon as be accepted!
 ## Contributions:
