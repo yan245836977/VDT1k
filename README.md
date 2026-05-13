@@ -67,3 +67,18 @@ if __name__ == '__main__':
     with open("att_rec.json","r") as f:
         attributes = json.load(f)
 ```
+
+Cite format:
+
+```python
+@ARTICLE{11494035,
+  author={Yan, Kaixiang and Qian, Wenhua and Cao, Jinde and Bi, Cong and Gan, Rufei},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Visual object tracking via integrating images of visible, thermal, and depth modalities}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2026.3686965}}
+
+```
