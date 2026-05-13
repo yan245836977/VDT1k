@@ -7,7 +7,7 @@ VDT1k includes 1,325 video sequences captured by a triple-modal camera mounted o
 You can play this video via clicking this [link](https://www.bilibili.com/video/BV1npmXBNEF3/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c48289e4d0b5d554d90e058fce4c4388).
 
 # How to use VDT1k
-You can access related sources of VDT1k via BaiduNet [link](https://pan.baidu.com/s/15KHCmLA49hGuh0F8nSNjag?pwd=kve2).
+You can access related sources of VDT1k via BaiduNet [link](https://pan.baidu.com/s/1HXG1ZYiAEkbRA_lrRKj7Ug?pwd=njmh).
 Folder architecture of VDT1k:
 
 ```python
