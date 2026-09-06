@@ -71,14 +71,14 @@ if __name__ == '__main__':
 Cite format:
 
 ```python
-@ARTICLE{11494035,
+@ARTICLE{VDT1k,
   author={Yan, Kaixiang and Qian, Wenhua and Cao, Jinde and Bi, Cong and Gan, Rufei},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={Visual object tracking via integrating images of visible, thermal, and depth modalities}, 
+  title={Visual Object Tracking via Integrating Images of Visible, Thermal, and Depth Modalities}, 
   year={2026},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={36},
+  number={8},
+  pages={11298-11307},
   doi={10.1109/TCSVT.2026.3686965}}
 
 ```
